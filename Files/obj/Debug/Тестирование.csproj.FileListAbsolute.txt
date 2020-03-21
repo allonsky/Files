@@ -1,0 +1,6 @@
+C:\Users\Саша\source\repos\Тестирование\Тестирование\bin\Debug\Тестирование.exe.config
+C:\Users\Саша\source\repos\Тестирование\Тестирование\bin\Debug\Тестирование.exe
+C:\Users\Саша\source\repos\Тестирование\Тестирование\bin\Debug\Тестирование.pdb
+C:\Users\Саша\source\repos\Тестирование\Тестирование\obj\Debug\Тестирование.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\Тестирование\Тестирование\obj\Debug\Тестирование.exe
+C:\Users\Саша\source\repos\Тестирование\Тестирование\obj\Debug\Тестирование.pdb
